@@ -1,10 +1,10 @@
 
-# Obfuscated By TAHMID RAYAT | HTR-TECH
-# Github    : https://www.github.com/htr-tech
-# Instagram : https://instagr.am/tahmid.rayat
+# ENC BY HALO
+# Github    : https://www.github.com/halocark
+# Instagram : https://instagr.am/i4m_mrx
 # --------------------------------------------
 # Time      : Mon Sep 27 12:05:32 2021
-# Platform  : Linux aarch64
+# Platform  : Linux 
 # --------------------------------------------
 
 import codecs,base64
